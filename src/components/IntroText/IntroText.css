@@ -1,0 +1,46 @@
+.Intro-text__container{
+    /* border: 2px dashed pink; */
+    box-sizing: border-box;
+    color: white;
+    height: 100%;
+    margin-top: 10%;
+    padding-top: 10vh;
+    padding-right: 10vw;
+    text-align: start;
+    text-shadow: 6px 6px 6px rgba(0, 0, 0, 0.24);
+}
+
+.Intro-text__container h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.intro-text-build{
+    /* border: 2px solid red; */
+    /* margin-top: 50px; */
+}
+
+.Intro-text__container p {
+    /* border: 2px solid red; */
+    line-height: 1.4em;
+    width: 100%;
+}
+
+.Intro-text__container button {
+    background-color: white;
+    border: inherit;
+    border-radius: 100px;
+    box-shadow: 2px 2px 7px 2px rgba(0, 0, 0, 0.34);
+    color: hsl(257, 40%, 49%);
+    font-size: 19px;
+    padding: 20px;
+    margin-top: 2%;
+    text-shadow: none;
+    width: 30%;
+}
+
+.Intro-text__container button:hover{
+    background-color: hsl(257, 40%, 49%);
+    cursor: pointer;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.logo-container {
+    background-image: url(/public/images/logo.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;
+}
+
+.logo-container img {
+    color: red;
+    border: 2px solid red;
+    height: 100%;
+    width: 100%;
+}

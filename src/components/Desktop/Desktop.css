@@ -1,0 +1,37 @@
+
+.desktop-container{
+    height: 90%;
+    /* background-image: url('/public/images/illustration-mockups.svg');
+    background-size: contain;
+    background-repeat: no-repeat; */
+    right: 20px;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    /* border: 2px solid red; */
+}
+
+.desktop-container_blackbar{
+    background-color: black;
+    border-top-right-radius: inherit;
+    border-top-left-radius: inherit;
+    height: 10%;
+    padding-left: 35px;
+    padding-right: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.blackbar-searchbar{
+    background-color: gray;
+    border-radius: 20px;
+    width: 25%;
+    height: 35%;
+}
+
+.blackbar-hamburger{
+    border: 2px solid red;
+    height: 35%;
+    width: 3%;
+}

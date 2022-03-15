@@ -19,13 +19,19 @@ export default function SocialMedia() {
   return (
     <div className='social-media__container'>
       <div className='social-media__icons'>
-        <img src={photos[0].url} alt="twitter icon" />
+        <a href="http://www.twitter.com" target="_blank">
+          <img src={photos[0].url} alt="twitter icon" />
+        </a>
       </div>
       <div className='social-media__icons'>
-        <img src={photos[1].url} alt="facebook icon" />
+        <a href="http://www.facebook.com" target="_blank">
+          <img src={photos[1].url} alt="facebook icon" />
+        </a>
       </div>
       <div className='social-media__icons'>
-        <img src={photos[2].url} alt="instagram icon" />
+        <a href="http://www.instagram.com" target="_blank">
+          <img src={photos[2].url} alt="instagram icon" />
+        </a>
       </div>
     </div>
   )

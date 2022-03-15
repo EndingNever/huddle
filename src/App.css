@@ -19,7 +19,7 @@
 }
 
 .logo-component{
-  border: 2px dashed green;
+  /* border: 2px dashed green; */
   height: 6vh;
   width: 10vw;
 }
@@ -33,13 +33,14 @@
 }
 
 .mobile-component{
-  border: 2px groove salmon;
+  /* border: 2px groove salmon; */
   border-radius: 20px;
-  background-color: red;
+  background-color: white;
+  box-shadow: 2px 2px 7px 6px rgba(0, 0, 0, 0.15);
   height: 59vh;
   left: 38vw;
   top: 30%;
-  width: 15vw;
+  width: 17vw;
   position: absolute;
   z-index: 2;
 }
@@ -54,7 +55,7 @@
 }
 
 .socialmedia-component{
-  border: 2px solid brown;
+  /* border: 2px solid brown; */
   height: 13vh;
   position: absolute;
   top: 86vh;

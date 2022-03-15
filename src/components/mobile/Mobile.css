@@ -1,0 +1,32 @@
+.mobile-container{ 
+    /* border: 2px solid red; */
+    height: 100%;
+    border-radius: inherit;
+    
+}
+.mobile-container_blackbar{
+    background-color: black;
+    border-radius: inherit;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 8%;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mobile-header-searchbar{
+    border-radius: 20px;
+    background-color: gray;
+    height: 40%;
+    width: 35%;
+    
+}
+
+.mobile-hamburger{
+    border: 2px solid red;
+    height: 40%;
+    width: 8%;
+}

@@ -1,4 +1,5 @@
 import React from 'react'
+import Avatar from '../Avatar/Avatar'
 import './Desktop.css'
 
 export default function Desktop() {
@@ -12,7 +13,9 @@ export default function Desktop() {
             </div>
         </div>
         <div className="desktop-body">
-
+          <div className='desktop-body_avatar'>
+            <Avatar/>
+          </div>
         </div>
     </div>
   )

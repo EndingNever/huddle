@@ -1,6 +1,7 @@
 import React from 'react'
 // import '../Desktop/Desktop.css'
 import './Mobile.css'
+import Avatar from '../Avatar/Avatar'
 
 export default function Mobile() {
     return (
@@ -13,7 +14,7 @@ export default function Mobile() {
             </div>
         </div>
         <div className="mobile-body">
-
+            <Avatar />
         </div>
     </div>
     )

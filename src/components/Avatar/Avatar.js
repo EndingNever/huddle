@@ -6,28 +6,28 @@ export default function Avatar() {
         <>
             <div className="container-seed-data">
                 <div className='avatar-container'>
-                    <div className="avatar-image-1"></div>
-                    <div className="avatar-image-2"></div>
-                    <div className="avatar-image-3"></div>
+                    <div className="avatar avatar-image-1"></div>
+                    <div className="avatar avatar-image-2"></div>
+                    <div className="avatar avatar-image-3"></div>
                 </div>
                 <div className="avatar-text-container">
                     <div className="filler-text-container">
-                        <div className="filler-text-line-1"></div>
-                        <div className="filler-text-line-2"></div>
-                        <div className="filler-text-line-3"></div>
-                        <div className="filler-text-line-4"></div>
+                        <div className="filler-text filler-text-line-1"></div>
+                        <div className="filler-text filler-text-line-2"></div>
+                        <div className="filler-text filler-text-line-3"></div>
+                        <div className="filler-text filler-text-line-4"></div>
                     </div>
                     <div className="filler-text-container">
-                        <div className="filler-text-line-1"></div>
-                        <div className="filler-text-line-2"></div>
-                        <div className="filler-text-line-3"></div>
-                        <div className="filler-text-line-4"></div>
+                        <div className="filler-text filler-text-line-1"></div>
+                        <div className="filler-text filler-text-line-2"></div>
+                        <div className="filler-text filler-text-line-3"></div>
+                        <div className="filler-text filler-text-line-4"></div>
                     </div>
                     <div className="filler-text-container">
-                        <div className="filler-text-line-1"></div>
-                        <div className="filler-text-line-2"></div>
-                        <div className="filler-text-line-3"></div>
-                        <div className="filler-text-line-4"></div>
+                        <div className="filler-text filler-text-line-1"></div>
+                        <div className="filler-text filler-text-line-2"></div>
+                        <div className="filler-text filler-text-line-3"></div>
+                        <div className="filler-text filler-text-line-4"></div>
                     </div>
                 </div>
                 <div className="avatar-reactions-container">

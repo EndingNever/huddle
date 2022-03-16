@@ -30,3 +30,39 @@
     height: 40%;
     width: 8%;
 }
+
+.mobile-body{
+    height: 92%;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.mobile-body .avatar-reactions-container{
+    display: none;
+}
+
+.mobile-body .avatar-container{
+    /* border: 2px solid red; */
+    align-items: center;
+    margin-left: 0%;
+    padding-right: 1%;
+    width: 25%;
+}
+
+.mobile-body .avatar-text-container{
+    /* border: 2px solid green; */
+    width: 75%;
+}
+
+.mobile-body .avatar{
+    width: 80%;
+    height: 12%;
+}
+
+.mobile-body .filler-text-container{
+    justify-content: center;
+}
+
+.mobile-body .filler-text{
+    height: 5%;
+}

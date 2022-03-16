@@ -31,18 +31,17 @@
 }
 
 .blackbar-hamburger{
-    border: 2px solid red;
+    background-image: url('/public/images/hamburger.svg');
+    background-repeat: no-repeat;
+    background-position: center;
     height: 35%;
     width: 3%;
 }
 
 .desktop-body{
-    /* border: 2px solid red; */
     height: 90%;
-    /* padding:-50px */
 }
 
 .desktop-body_avatar{
-    /* border: 2px solid red; */
     height: 100%;
 }
